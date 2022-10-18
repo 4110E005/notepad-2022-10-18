@@ -1,0 +1,5 @@
+開啟記事本(notepad.exe | calc.exe) 使用taskkill殺掉
+
+- notepad.exe
+- taskkill /f /PID 1460
+- C:\Windows\system32>S

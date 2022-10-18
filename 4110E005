@@ -1,0 +1,6 @@
+C:\Windows\system32>notepad.exe
+
+C:\Windows\system32>taskkill /f /PID 1460
+成功: 處理程序 PID 1460 已經終止了。
+
+C:\Windows\system32>S
